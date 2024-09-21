@@ -23,7 +23,7 @@ int main(){
     
     printf("Enter the area ");
     scanf("%f",&area);
-    printf("The floating point is %.3f\n",area);
+    printf("The floating point is %.4f\n",area);
     
     printf("Enter salary ");
     scanf("%lf",&salary);

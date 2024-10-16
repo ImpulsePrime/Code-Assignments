@@ -1,4 +1,5 @@
 //C variables and data types
+
 //Pre processor directive
 #include <stdio.h> //printf(), scanf()
 int main(){
